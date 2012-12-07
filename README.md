@@ -39,6 +39,10 @@ $this->widget('ext.chosen.EChosenWidget',array(
 Changelog
 ------------------
 
+### v1.2
+
+- Use CWidget instead of CInputWidget.
+
 ### v1.1
 
 - Chosen updated to version 0.9.10.
