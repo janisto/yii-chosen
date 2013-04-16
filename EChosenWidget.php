@@ -4,7 +4,7 @@
  * Chosen widget
  *
  * @author Jani Mikkonen <janisto@php.net>
- * @version 1.2
+ * @version 1.3.0-dev
  * @license public domain (http://unlicense.org)
  * @package extensions.chosen
  * @link http://harvesthq.github.com/chosen/
