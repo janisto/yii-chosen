@@ -4,13 +4,14 @@
  * Chosen widget
  *
  * @author Jani Mikkonen <janisto@php.net>
- * @version 1.3.0-dev
+ * @version 1.3.0
  * @license public domain (http://unlicense.org)
  * @package extensions.chosen
  * @link http://harvesthq.github.com/chosen/
  */
 
-class EChosenWidget extends CWidget {
+class EChosenWidget extends CWidget
+{
 	/**
 	 * Assets package ID.
 	 */
